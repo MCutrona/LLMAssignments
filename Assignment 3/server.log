@@ -1,0 +1,21 @@
+2024-10-02 18:37:03,889 INFO:Model loaded successfully.
+2024-10-02 18:37:03,915 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-10-02 18:37:03,916 INFO:[33mPress CTRL+C to quit[0m
+2024-10-02 18:37:03,917 INFO: * Restarting with stat
+2024-10-02 18:37:05,785 INFO:Model loaded successfully.
+2024-10-02 18:37:05,795 WARNING: * Debugger is active!
+2024-10-02 18:37:05,815 INFO: * Debugger PIN: 911-779-474
+2024-10-02 18:38:37,421 INFO:127.0.0.1 - - [02/Oct/2024 18:38:37] "POST /predict HTTP/1.1" 200 -
+2024-10-02 18:46:06,440 INFO: * Detected change in 'C:\\Users\\sheer\\OneDrive\\School\\Semester 7\\LLMs\\Assignment 3\\gar\\server.py', reloading
+2024-10-02 18:46:06,681 INFO: * Restarting with stat
+2024-10-02 18:46:08,439 INFO:Model loaded successfully.
+2024-10-02 18:46:08,449 WARNING: * Debugger is active!
+2024-10-02 18:46:08,469 INFO: * Debugger PIN: 911-779-474
+2024-10-02 18:49:12,099 INFO: * Detected change in 'C:\\Users\\sheer\\OneDrive\\School\\Semester 7\\LLMs\\Assignment 3\\gar\\server.py', reloading
+2024-10-02 18:49:12,239 INFO: * Restarting with stat
+2024-10-02 18:49:14,161 INFO:Model loaded successfully.
+2024-10-02 18:49:14,173 WARNING: * Debugger is active!
+2024-10-02 18:49:14,196 INFO: * Debugger PIN: 911-779-474
+2024-10-02 18:49:16,216 INFO: * Detected change in 'C:\\Users\\sheer\\OneDrive\\School\\Semester 7\\LLMs\\Assignment 3\\gar\\server.py', reloading
+2024-10-02 18:49:16,368 INFO: * Restarting with stat
